@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently working on [A Discord Bot "Cypher"](https://discord.com/api/oauth2/authorize?client_id=1024259879696859146&permissions=8&scope=bot)<br>I’m currently learning **JavaScript**<br>All of my projects are available at [https://github.com/Fenix7331?tab=repositories](https://github.com/Fenix7331?tab=repositories)<br>Reach Me Through Mail : **fenixcodez1337@gmail.com**
+・I’m currently working on [A Discord Bot "Cypher"](https://discord.com/api/oauth2/authorize?client_id=1024259879696859146&permissions=8&scope=bot)<br>・I’m currently learning **JavaScript**<br>・All of my projects are available at [https://github.com/Fenix7331?tab=repositories](https://github.com/Fenix7331?tab=repositories)<br>・Reach Me Through Mail : **fenixcodez1337@gmail.com**<br>・Reach Me On Discord: [Click Here](https://discord.com/users/853810604842287136)
 
 
 ## 🌐 Socials:
