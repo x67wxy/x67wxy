@@ -1,5 +1,5 @@
 # 💫 About Me:
-・Hey, Am Fenix And I Am An Intermediate Python & JS Developer<br>・I’m currently learning **JavaScript**<br>・All of my projects are available at [https://github.com/Fenix7331?tab=repositories](https://github.com/Fenix7331?tab=repositories)<br>・Reach Me Through Mail : **fenixcodez1337@gmail.com**<br>・Reach Me On Discord: [Click Here](https://discord.com/users/853810604842287136)
+・Hey, Am LeeTxHacker And I Am An Intermediate Python & JS Developer<br>・I’m currently learning **JavaScript**<br>・All of my projects are available at [https://github.com/leetxhacker?tab=repositories](https://github.com/Fenix7331?tab=repositories)<br>・Reach Me Through Mail : **contact@leetxhacker.tech**<br>・Reach Me On Discord: [Click Here](https://discord.com/users/853810604842287136)
 
 
 ## 🌐 Socials:
