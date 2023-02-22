@@ -16,6 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=leetxhacker&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=leetxhacker&label=Visitors&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Created By @LeeTxHacker --!>
